@@ -1,7 +1,8 @@
 <img src="https://cdn.gangnam.club/images/logos/map-stuff-logo-rect-black.svg" width="250" alt="MapStuff.io Logo">
 
 
-# MapStuff.io
+# Platform
+  mapstuff.io
 
 ## Maps for apps!
 
